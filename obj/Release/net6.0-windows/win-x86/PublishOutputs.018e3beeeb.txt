@@ -1,0 +1,13 @@
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Sorteo.exe
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Sorteo.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Sorteo.deps.json
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Sorteo.runtimeconfig.json
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Sorteo.pdb
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Google.Protobuf.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\K4os.Compression.LZ4.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\K4os.Compression.LZ4.Streams.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\K4os.Hash.xxHash.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\MySql.Data.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\Ubiety.Dns.Core.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\ZstdNet.dll
+D:\Documents\Proyectos CSharp\Sorteo\Instalador Sorteo UTU 2022\BouncyCastle.Crypto.dll

@@ -1,0 +1,13 @@
+D:\Documents\Proyectos CSharp\Sorteo\Sorteo.exe
+D:\Documents\Proyectos CSharp\Sorteo\Sorteo.dll
+D:\Documents\Proyectos CSharp\Sorteo\Sorteo.deps.json
+D:\Documents\Proyectos CSharp\Sorteo\Sorteo.runtimeconfig.json
+D:\Documents\Proyectos CSharp\Sorteo\Sorteo.pdb
+D:\Documents\Proyectos CSharp\Sorteo\Google.Protobuf.dll
+D:\Documents\Proyectos CSharp\Sorteo\K4os.Compression.LZ4.dll
+D:\Documents\Proyectos CSharp\Sorteo\K4os.Compression.LZ4.Streams.dll
+D:\Documents\Proyectos CSharp\Sorteo\K4os.Hash.xxHash.dll
+D:\Documents\Proyectos CSharp\Sorteo\MySql.Data.dll
+D:\Documents\Proyectos CSharp\Sorteo\Ubiety.Dns.Core.dll
+D:\Documents\Proyectos CSharp\Sorteo\ZstdNet.dll
+D:\Documents\Proyectos CSharp\Sorteo\BouncyCastle.Crypto.dll

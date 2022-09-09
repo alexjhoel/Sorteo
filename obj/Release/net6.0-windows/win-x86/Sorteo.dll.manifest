@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Sorteo.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Sorteo.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="2525252555.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -53,6 +54,15 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="2525252555.ico" size="61141">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>46278Dy3l27OL7FFM1HZfxmLd5FvdvF/QXK+4mQ+zyY=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="BouncyCastle.Crypto.dll" size="3318504">
     <hash>
       <dsig:Transforms>
@@ -116,22 +126,22 @@
       <dsig:DigestValue>oemFDVSdCc0Bllxl/cIkRrjZxGs1P7usmpjvlWVu69I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Sorteo.dll" size="10038272">
+  <file name="Sorteo.dll" size="10223104">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HYD00VAi89z1k15LDdiS78pV+ht6CkD7U19tKYQvXwE=</dsig:DigestValue>
+      <dsig:DigestValue>hO5QDoqYDcK+/qHC7B7k/H6gCPTlVYNtLLr21bhsBiM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Sorteo.exe" size="114688">
+  <file name="Sorteo.exe" size="176128">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wBzVpEsi1UFx9qtEGwRF6YGoDaYxAx9qq1qW9FujCKw=</dsig:DigestValue>
+      <dsig:DigestValue>R0TXTACewmtvpZoo5+08PckXcwRsK9YQ0zlH95JxPnA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sorteo.runtimeconfig.json" size="372">
